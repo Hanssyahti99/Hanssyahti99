@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hanssyahti99
-- 👀 I’m interested in UI UX
-- 🌱 I’m currently learning Web Design
-- 💞️ I’m looking to collaborate on Web Design
-- 📫 How to reach me @haniflpstreetsoldier@gmail.com
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently working as tech researcher at TechFusion.id
+- 💞️ I’m looking to collaborate on Penetration Tester 
+- 📫 How to reach me @hanifsyahti@gmail.com
 
 <!---
 Hanssyahti99/Hanssyahti99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
